@@ -30,7 +30,7 @@ Aplikasi PWA untuk mencatat hafalan Juz 30 dan absensi siswa. Bisa digunakan off
 ## 📥 Cara Install di HP
 
 ### Android (Chrome)
-1. Buka `https://username.github.io/tamma-app/`
+1. Buka `https://kngenproject.github.io/tahfidh-absensi-Tamma-v0.2/`
 2. Tap menu ⋮ → "Tambahkan ke layar utama"
 3. Aplikasi akan terinstall seperti native app
 
