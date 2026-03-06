@@ -19,7 +19,7 @@ Aplikasi PWA untuk mencatat hafalan Juz 30 dan absensi siswa. Bisa digunakan off
 
 ## 🚀 Demo Langsung
 
-🔗 **[https://username.github.io/tamma-app/](https://username.github.io/tamma-app/)**
+🔗 **[https://kngenproject.github.io/tahfidh-absensi-Tamma-v0.2/](https://kngenproject.github.io/tahfidh-absensi-Tamma-v0.2/)**
 
 ## 📱 Screenshot
 
@@ -87,25 +87,10 @@ tamma-app/
 ├── assets/             # Ikon & screenshot
 ├── docs/               # Dokumentasi lengkap
 └── examples/           # Contoh file Excel
+
 ```
 
-## 🚀 Cara Deploy ke GitHub Pages
-
-```bash
-# Clone repository
-git clone https://github.com/username/tamma-app.git
-cd tamma-app
-
-# Push ke GitHub
-git add .
-git commit -m "Initial commit"
-git push origin main
-
-# Aktifkan GitHub Pages:
-# Settings → Pages → branch: main → / (root) → Save
-```
-
-Aplikasi akan live di: `https://username.github.io/tamma-app/`
+Aplikasi akan live di: `https://kngenproject.github.io/tahfidh-absensi-Tamma-v0.2/`
 
 ## 🤝 Kontribusi
 
